@@ -1,10 +1,18 @@
-# dataframe_performance_pandas_x_polars
+# Dataframe Performance: Pandas versus Polars
 
 
 ![ScreenShot](pandas_x_polars.png)
 
-O objetivo deste notebook é somente compartilhar com profissionanis que estão iniciando sua carreira em dados em python, comandos muito úteis e populares no dia a dia de um analista de dados, utilizando dataframes do Pandas.
+Olá amigos, o intuito deste notebook é somente comparar a performance entre uma biblioteca super popular como o Pandas e a biblioteca alternativa Polars, projetada para processar dados com maior rapidez.
+O Pandas é uma biblioteca python essencial para análise de dados e toda a sua ciência, mas ele possui uma grande desvantagem por ser lento ao trabalhar com grande volume de dados. Com isso, desenvolveram essa biblioteca Polars que tem como filosofia acelerar o processo e manipulação de grandes volumes de dados.
 
-Para executar será necessário Google Colab ou qualquer outro ambiente de jupyter notebook 
+Deixo aqui todos os créditos a comunidade Polars que contribui para que nós possamos testar, comparar e aproveitar os recursos que essas duas maravilhas oferecem ao nosso dia a dia.
+
+<a href="https://pola-rs.github.io/polars-book/">Polars Guide</a>
+
+<a href="https://pandas.pydata.org/pandas-docs/stable/index.html">Pandas</a>
+
+
+Para executar comparativo é necessário Google Colab ou qualquer outro ambiente de jupyter notebook 
 
 Excelente aprendizado!!!
