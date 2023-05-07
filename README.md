@@ -13,6 +13,6 @@ Deixo aqui todos os créditos a comunidade Polars que contribui para que nós po
 <a href="https://pandas.pydata.org/pandas-docs/stable/index.html">Pandas</a>
 
 
-Para executar comparativo é necessário Google Colab ou qualquer outro ambiente de jupyter notebook 
+Para executar este comparativo, utilize o Google Colab, Kaggle ou qualquer outro ambiente de jupyter notebook.
 
 Excelente aprendizado!!!
